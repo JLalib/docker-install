@@ -15,7 +15,7 @@ Un script de **Bash** simple pero potente para la instalación rápida de los co
 1.  **Clonar el repositorio:** Abre una terminal y clona el proyecto con el siguiente comando:
 
     ```bash
-    git clone [https://github.com/JLalib/docker-install.git](https://github.com/JLalib/docker-install.git)
+    git clone https://github.com/JLalib/docker-install.git
     ```
 
 2.  **Navegar al directorio:** Entra en el directorio del proyecto.
